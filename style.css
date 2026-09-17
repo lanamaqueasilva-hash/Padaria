@@ -12,8 +12,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #195052;             /* marrom escuro (texto) */
-    background-color: #FFF8F0;  /* creme (fundo) */
+    color: #87cdcf;             /* marrom escuro (texto) */
+    background-color: #000000;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid #195052;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
@@ -105,13 +105,13 @@ blockquote {
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
+    background-color: #195052;
     color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #042b2c;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
