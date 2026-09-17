@@ -19,7 +19,7 @@ body {
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #195052;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    color: #87cdcf;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #FFFFFF;
+    color: #87cdcf;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #195052;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #FDEEDC;
+    background-color: #000000;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
